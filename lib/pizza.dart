@@ -27,7 +27,7 @@ class Pizza {
     return {
       'id': id,
       'pizzaName': pizzaName,
-      'description': price,
+      'description': description,
       'price': imageUrl,
       'imageUrl': description
     };
